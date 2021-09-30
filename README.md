@@ -24,11 +24,22 @@ Here are some ideas to get you started:
 - 💻 Coding
 
 ### Find Me Here
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" width="44px" alt="holisitc_developer | LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 <br />
 
 ### Languages, Frameworks, and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="" />
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/office/40/000000/react.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" width="44px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
 
 [linkedin]: https://www.linkedin.com/in/brandon-cavins-4070b016b/
